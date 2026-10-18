@@ -4,6 +4,23 @@ Writer and developer, founder of [Face Dragons](https://facedragons.com). I buil
 
 Godot · Blender + Python · Three.js · Kotlin + Jetpack Compose · Swift · C++ · Node · Python · SQLite · LLM tooling
 
+## Apps
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/gregoryjayuk/kuan"><img src="https://raw.githubusercontent.com/gregoryjayuk/kuan/main/docs/screenshots/session.png" width="32%" alt="A gym session in progress"> <img src="https://raw.githubusercontent.com/gregoryjayuk/kuan/main/docs/screenshots/hall.jpg" width="32%" alt="The martial-arts hall"> <img src="https://raw.githubusercontent.com/gregoryjayuk/kuan/main/docs/screenshots/today.jpg" width="32%" alt="Today's workout"></a><br><b><a href="https://github.com/gregoryjayuk/kuan">kuan</a></b>: an Android workout tracker in Kotlin and Jetpack Compose, with a progression engine, runs and a martial-arts hall.</td>
+<td width="50%" valign="top"><a href="https://github.com/gregoryjayuk/tibetan-study"><img src="https://raw.githubusercontent.com/gregoryjayuk/tibetan-study/main/docs/screenshots/review-answer.png" alt="A Tibetan review card"></a><br><b><a href="https://github.com/gregoryjayuk/tibetan-study">tibetan-study</a></b>: a self-hosted Tibetan study app with spaced repetition, plus a pipeline that repairs garbled Tibetan text in PDF textbooks from the fonts' own tables.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/gregoryjayuk/needle"><img src="https://raw.githubusercontent.com/gregoryjayuk/needle/main/docs/screenshots/needle-panels.png" alt="Needle's menu-bar panel: a record with a tonearm, playlists and search"></a><br><b><a href="https://github.com/gregoryjayuk/needle">needle</a></b>: a macOS menu-bar remote for an MPD music server. The record slides out and turns at 33⅓ rpm while the tonearm tracks the song; playlists, instant search, media keys and a CLI.</td>
+<td width="50%" valign="top"><a href="https://github.com/gregoryjayuk/thought-capture"><img src="https://raw.githubusercontent.com/gregoryjayuk/thought-capture/main/docs/screenshots/browser-transcript.png" alt="A transcript in the browser recorder"></a><br><b><a href="https://github.com/gregoryjayuk/thought-capture">thought-capture</a></b>: voice capture, transcribed locally by whisper.cpp in the browser, plus an Android home-screen widget.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/gregoryjayuk/bookmarks-launcher"><img src="https://raw.githubusercontent.com/gregoryjayuk/bookmarks-launcher/main/docs/screenshots/launcher-grid.png" alt="The launcher's icon grid"></a><br><b><a href="https://github.com/gregoryjayuk/bookmarks-launcher">bookmarks-launcher</a></b>: a keyboard-first macOS launcher in Swift over a SQLite bookmarks database, with a browser extension that saves tabs into it.</td>
+<td width="50%"></td>
+</tr>
+</table>
+
 ## Games and 3D
 
 <table>
@@ -21,22 +38,6 @@ Godot · Blender + Python · Three.js · Kotlin + Jetpack Compose · Swift · C+
 </tr>
 </table>
 
-## Apps
-
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/gregoryjayuk/kuan"><img src="https://raw.githubusercontent.com/gregoryjayuk/kuan/main/docs/screenshots/session.png" width="32%" alt="A gym session in progress"> <img src="https://raw.githubusercontent.com/gregoryjayuk/kuan/main/docs/screenshots/hall.jpg" width="32%" alt="The martial-arts hall"> <img src="https://raw.githubusercontent.com/gregoryjayuk/kuan/main/docs/screenshots/today.jpg" width="32%" alt="Today's workout"></a><br><b><a href="https://github.com/gregoryjayuk/kuan">kuan</a></b>: an Android workout tracker in Kotlin and Jetpack Compose, with a progression engine, runs and a martial-arts hall.</td>
-<td width="50%" valign="top"><a href="https://github.com/gregoryjayuk/tibetan-study"><img src="https://raw.githubusercontent.com/gregoryjayuk/tibetan-study/main/docs/screenshots/review-answer.png" alt="A Tibetan review card"></a><br><b><a href="https://github.com/gregoryjayuk/tibetan-study">tibetan-study</a></b>: a self-hosted Tibetan study app with spaced repetition, plus a pipeline that repairs garbled Tibetan text in PDF textbooks from the fonts' own tables.</td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/gregoryjayuk/needle"><img src="https://raw.githubusercontent.com/gregoryjayuk/needle/main/docs/screenshots/needle-panels.png" alt="Needle's menu-bar panel: a record with a tonearm, playlists and search"></a><br><b><a href="https://github.com/gregoryjayuk/needle">needle</a></b>: a macOS menu-bar remote for an MPD music server. The record slides out and turns at 33⅓ rpm while the tonearm tracks the song; playlists, instant search, media keys and a CLI.</td>
-<td width="50%" valign="top"><a href="https://github.com/gregoryjayuk/thought-capture"><img src="https://raw.githubusercontent.com/gregoryjayuk/thought-capture/main/docs/screenshots/browser-transcript.png" alt="A transcript in the browser recorder"></a><br><b><a href="https://github.com/gregoryjayuk/thought-capture">thought-capture</a></b>: voice capture, transcribed locally by whisper.cpp in the browser, plus an Android home-screen widget.</td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/gregoryjayuk/bookmarks-launcher"><img src="https://raw.githubusercontent.com/gregoryjayuk/bookmarks-launcher/main/docs/screenshots/launcher-grid.png" alt="The launcher's icon grid"></a><br><b><a href="https://github.com/gregoryjayuk/bookmarks-launcher">bookmarks-launcher</a></b>: a keyboard-first macOS launcher in Swift over a SQLite bookmarks database, with a browser extension that saves tabs into it.</td>
-<td width="50%"></td>
-</tr>
-</table>
 
 ## Tools and AI experiments
 
