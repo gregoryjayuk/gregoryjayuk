@@ -41,6 +41,10 @@ Godot · Blender + Python · Three.js · Kotlin + Jetpack Compose · Swift · C+
 <td width="50%" valign="top"><a href="https://github.com/gregoryjayuk/jev-lab"><img src="https://raw.githubusercontent.com/gregoryjayuk/jev-lab/main/docs/screenshots/reading-list.png" alt="A weekly reading list"></a><br><b><a href="https://github.com/gregoryjayuk/jev-lab">jev-lab</a></b>: a feed sieve that has an LLM decision model judge a week of posts from 500+ feeds against a reader's interests, and an eval of the same model on bookmark categorisation.</td>
 <td width="50%" valign="top"><a href="https://github.com/gregoryjayuk/media-index"><img src="https://raw.githubusercontent.com/gregoryjayuk/media-index/main/docs/screenshots/walk-report-query.png" alt="media-index walking drives and answering queries"></a><br><b><a href="https://github.com/gregoryjayuk/media-index">media-index</a></b>: a read-only, metadata-only indexer that put 2.16 million files (30 TB) into SQLite in about 13 minutes.</td>
 </tr>
+<tr>
+<td width="50%" valign="top"><b><a href="https://github.com/gregoryjayuk/vmangos-toolkit">vmangos-toolkit</a></b>: tools for a private vanilla WoW server. An auction-house economy modelled on real item scarcity from the loot tables, a generated level-40 quest chain, persistent party-bot companions, and all 727 GM commands read from source.</td>
+<td width="50%" valign="top"><b><a href="https://github.com/gregoryjayuk/garmin-sync">garmin-sync</a></b>: your Garmin data off their servers. A rate-limit-safe daily pull of activities, sleep, HRV and stress into local files.</td>
+</tr>
 </table>
 
-Also here: [garmin-sync](https://github.com/gregoryjayuk/garmin-sync) (your Garmin data off their servers), [ahbot-config](https://github.com/gregoryjayuk/ahbot-config) (an auction-house seeder for vMangos), [nnn-addons](https://github.com/gregoryjayuk/nnn-addons), and my builds of [dwm](https://github.com/gregoryjayuk/dwm), [dmenu](https://github.com/gregoryjayuk/dmenu) and [st](https://github.com/gregoryjayuk/st).
+Also here: [ahbot-config](https://github.com/gregoryjayuk/ahbot-config) (the original 2025 auction-house seeder), [nnn-addons](https://github.com/gregoryjayuk/nnn-addons), and my builds of [dwm](https://github.com/gregoryjayuk/dwm), [dmenu](https://github.com/gregoryjayuk/dmenu) and [st](https://github.com/gregoryjayuk/st).
