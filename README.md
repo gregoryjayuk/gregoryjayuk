@@ -51,4 +51,15 @@ Godot · Blender + Python · Three.js · Kotlin + Jetpack Compose · Swift · C+
 </tr>
 </table>
 
-Also here: [ahbot-config](https://github.com/gregoryjayuk/ahbot-config) (the original 2025 auction-house seeder), [nnn-addons](https://github.com/gregoryjayuk/nnn-addons), and my builds of [dwm](https://github.com/gregoryjayuk/dwm), [dmenu](https://github.com/gregoryjayuk/dmenu) and [st](https://github.com/gregoryjayuk/st).
+## Smaller tools
+
+- [pwm](https://github.com/gregoryjayuk/pwm): a dmenu-driven password manager in Bash on SQLCipher
+- [mac-backups](https://github.com/gregoryjayuk/mac-backups): rsync hard-link snapshot backups for macOS with a staleness watchdog
+- [thoughts](https://github.com/gregoryjayuk/thoughts): an LLM pass over a captured-thoughts inbox that classifies and files each one
+- [proj](https://github.com/gregoryjayuk/proj): a project-planning CLI over a folder of markdown files
+- [gtd](https://github.com/gregoryjayuk/gtd): Getting Things Done from a single dmenu prompt
+- [fitness-dashboard](https://github.com/gregoryjayuk/fitness-dashboard): Markdown workout logs into SQLite and a static dashboard
+- [nnn-addons](https://github.com/gregoryjayuk/nnn-addons): clipboard and search plugins for the nnn file manager on macOS
+- [mpdscripts](https://github.com/gregoryjayuk/mpdscripts): dmenu and cover-art browsing for an MPD library
+- [ahbot-config](https://github.com/gregoryjayuk/ahbot-config): the original 2025 vMaNGOS auction-house seeder
+- My suckless desktop: [dwm](https://github.com/gregoryjayuk/dwm), [dmenu](https://github.com/gregoryjayuk/dmenu), [st](https://github.com/gregoryjayuk/st) and [dwmblocks](https://github.com/gregoryjayuk/dwmblocks)
